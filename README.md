@@ -12,3 +12,8 @@
 Так я решил заниматься DE
 
 Дата и время последнего коммита: 07.11.2022 22:15
+
+Последний коммит:
+commit 28dc5051c289f3ab468461e31c268389aeab058c
+Author: Aleksei Stakun <stakun.alexey@gmail.com>
+Date:   Thu Oct 27 00:41:17 2022 +0400
